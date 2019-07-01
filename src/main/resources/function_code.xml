@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filterCodes> 
+<!-- 用户模块拦截功能号start-->
+      <code>805040</code> 
+      <code>805001</code> 
+      <code>805045</code> 
+      <code>805046</code> 
+      <code>805153</code> 
+      <code>805047</code> 
+      <code>805049</code> 
+      <code>805050</code> 
+      <code>805057</code> 
+      <code>805051</code> 
+      <code>805052</code> 
+      <code>805078</code> 
+      <code>805053</code> 
+      <code>805054</code> 
+      <code>805055</code> 
+      <code>805072</code> 
+      <code>805077</code> 
+      <code>805156</code> 
+      <code>805075</code> 
+      <code>805150</code> 
+      <code>805158</code> 
+      <code>805080</code> 
+      <code>805081</code> 
+      <code>805100</code> 
+      <code>805160</code> 
+      <code>805161</code> 
+      <code>805162</code> 
+      <code>805163</code> 
+      <code>805165</code> 
+      <code>805166</code> 
+      <code>805000</code> 
+      <code>805001</code> 
+      <code>805002</code> 
+      <code>805003</code> 
+      <code>805004</code> 
+      <code>805005</code> 
+      <code>805020</code> 
+      <code>805021</code> 
+      <code>805022</code> 
+      <code>805023</code> 
+      <code>805024</code> 
+      <code>805025</code> 
+      <code>805026</code> 
+      <code>805027</code> 
+      <code>806020</code> 
+      <code>806021</code> 
+      <code>806022</code> 
+	  <code>807700</code> 
+	  <code>807701</code> 
+	  <code>807702</code> 
+	  <code>807710</code> 
+	  <code>807711</code> 
+   <!-- 用户模块拦截功能号end--> 
+   <!-- 账户模块拦截功能号start-->
+      <code>802503</code> 
+	  <code>802510</code> 
+	  <code>802526</code> 
+	  <code>802511</code> 
+	  <code>802514</code> 
+	  <code>802515</code> 
+	  <code>802516</code> 
+	  <code>802520</code> 
+	  <code>802521</code> 
+	  <code>802522</code> 
+	  <code>802524</code> 
+	  <code>802530</code> 
+	  <code>802518</code> 
+   <!-- 账户模块拦截功能号end--> 
+   <!-- 骑来骑去业务模块拦截功能号start--> 
+      <code>616100</code> 
+      <code>616101</code> 
+      <code>616211</code> 
+      <code>616102</code> 
+      <code>616130</code> 
+      <code>616131</code> 
+      <code>616132</code> 
+      <code>616180</code> 
+      <code>616181</code> 
+      <code>616182</code> 
+      <code>616183</code> 
+      <code>616184</code> 
+   <!-- 骑来骑去业务模块拦截功能号end--> 
+    <!-- 城市网业务模块拦截 -->
+  	 <code>610116</code>
+   	 <code>610122</code>
+   	 <code>610112</code>
+     <code>610110</code>
+     <code>610121</code>
+     <code>610113</code>
+     <!-- 城市网活动模块拦截 -->
+     <!-- 活动模块拦截 -->
+       <code>660222</code>
+     <!-- 活动模块拦截 -->
+</filterCodes> 
